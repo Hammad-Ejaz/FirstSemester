@@ -1,0 +1,10 @@
+D:\OOP\SpaceShooter(Classes)\bin\Debug\SpaceShooter(Classes).exe.config
+D:\OOP\SpaceShooter(Classes)\bin\Debug\SpaceShooter(Classes).exe
+D:\OOP\SpaceShooter(Classes)\bin\Debug\SpaceShooter(Classes).pdb
+D:\OOP\SpaceShooter(Classes)\bin\Debug\EZInput.dll
+D:\OOP\SpaceShooter(Classes)\bin\Debug\EZInput.xml
+D:\OOP\SpaceShooter(Classes)\obj\Debug\SpaceShooter(Classes).csproj.AssemblyReference.cache
+D:\OOP\SpaceShooter(Classes)\obj\Debug\SpaceShooter(Classes).csproj.CoreCompileInputs.cache
+D:\OOP\SpaceShooter(Classes)\obj\Debug\SpaceShooter(Classes).csproj.CopyComplete
+D:\OOP\SpaceShooter(Classes)\obj\Debug\SpaceShooter(Classes).exe
+D:\OOP\SpaceShooter(Classes)\obj\Debug\SpaceShooter(Classes).pdb
